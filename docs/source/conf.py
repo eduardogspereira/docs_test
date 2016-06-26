@@ -135,7 +135,7 @@ html_theme_path = ["_themes", ]
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-html_title = u'User's Guide'
+html_title = u'Users Guide'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
