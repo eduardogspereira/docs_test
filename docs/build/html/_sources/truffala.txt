@@ -24,8 +24,6 @@ In essence, you'll work with the website and mobile app.
 Truffala Details
 ================
 
-What is it?
-^^^^^^^^^^
 Truffala is a geospatial intelligence platform, used for:
 
 * Planning and tracking activities, particularly location based activities
@@ -39,7 +37,49 @@ It can be used:
 * DroneComply
 * UGLStick
 * Data Manager
-* As the basis or underline further specialist product development
+* **As the basis for further specialist product development**
+
+Truffala integrates several differing capabilities into a single 'common operating picture' environment. Truffala provides an authentication wrapper around various system, and focus's on building out its own mapping system.
+
+These capabilities are:
+
+Project Management
+^^^^^^^^^^^^^^^^^^
+
+A flexible project management web application (`Redmine <http://www.redmine.org>`_) which includes:
+
+* Trackers
+* Gantt chart
+* Calendar
+* Wiki
+* Forums
+* Multiple roles and groups
+* Email notification
+
+Web and Mobile Mapping
+^^^^^^^^^^^^^^^^^^^^^^
+
+TODO
+
+.. SOME FRASE ABOUT THE WEB AND MOBILE MAPPING
+
+* Online mapping
+* Sharing
+* Printing
+* Anlytics 
+* HeatMap
+* Rules and Alerts
+
+Mobile App
+^^^^^^^^^^
+
+TODO
+
+.. SOME FRASE ABOUT THE MOBILE APP
+
+* 'Offline first'
+* Pluggable widgets and forms
+
 
 .. _potential_truffala:
 
