@@ -1,11 +1,6 @@
-.. image:: /_pictures/geosynergy_rtd.png
-   :align: right
-   :alt: GeoSynergy Pty Ltd
-   :target: http://www.geosynergy.com.au
-
-==================
-Truffala Plataform 
-==================
+=====================
+Basic Site Navigation 
+=====================
 
 Truffala is a spatial enabled project management system, used for:
 

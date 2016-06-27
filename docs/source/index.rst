@@ -16,7 +16,11 @@ In case you need support, be comfortable to `Contact us <http://geosynergy.com.a
    :caption: ABOUT TRUFFALA
   
    truffala
-   jimmy
+
+.. toctree::
+   :caption: SECURE WEBSITE
+
+   basicsitenavigation
 
 
 
