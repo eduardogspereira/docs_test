@@ -24,12 +24,7 @@ In essence, you'll work with the website and mobile app.
 Truffala Details
 ================
 
-Truffala is a geospatial intelligence platform, used for:
-
-* Planning and tracking activities, particularly location based activities
-* Visualising, analysing and sharing big location data
-
-It can be used:
+Truffala is a geospatial intelligence platform, that can be used:
 
 * As-is
 * With various industry 'plug-ins'
