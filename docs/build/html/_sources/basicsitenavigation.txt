@@ -2,80 +2,31 @@
 Basic Site Navigation 
 =====================
 
-Truffala is a spatial enabled project management system, used for:
+To get started with the Truffala Plataform follow this page or go direct to where you want using the menu.
 
-* Planning and tracking activities, particularly location based activities
-* Visualising, analysing and sharing big location data
+Entering on Truffala Plataform
+******************************
 
-Truffala is more a **geospatial intelligence**, rather than mapping, platorm. It integrates geospatial and work management together.
-It allow for rapid further development and several standard industry plugins (which customise it for particular industries).
+Check the next sections to see how easily acess Truffala Plataform.
 
-Read more about `Truffala Detais <truffala_details_>`_ and the `Potential of Truffala <potential_truffala_>`_ to solve your problems.
+Log in / Log out
+^^^^^^^^^^^^^^^^
 
-In essence, you'll work with the website and mobile app.
+|bullet| **Log in**
 
-.. _truffala_details:
+Acess the site where Truffala Plataform is located and insert your *Username* and *Password*. As the follow picture:
 
-Truffala Details
-================
+.. image:: /_pictures/logintruffala.png
+	:align: center
 
-Truffala is a geospatial intelligence platform, that can be used:
-
-* As-is
-* With various industry 'plug-ins'
-* KEGS Field Developer
-* DroneComply
-* UGLStick
-* Data Manager
-* **As the basis for further specialist product development**
-
-Truffala integrates several differing capabilities into a single 'common operating picture' environment. Truffala provides an authentication wrapper around various system, and focus's on building out its own mapping system.
-
-These capabilities are:
-
-Project Management
-^^^^^^^^^^^^^^^^^^
-
-A flexible project management web application (`Redmine <http://www.redmine.org>`_) which includes:
-
-* Trackers
-* Gantt chart
-* Calendar
-* Wiki
-* Forums
-* Multiple roles and groups
-* Email notification
-
-Web and Mobile Mapping
-^^^^^^^^^^^^^^^^^^^^^^
-
-TODO
-
-.. SOME FRASE ABOUT THE WEB AND MOBILE MAPPING
-
-* Online mapping
-* Sharing
-* Printing
-* Anlytics 
-* HeatMap
-* Rules and Alerts
-
-Mobile App
-^^^^^^^^^^
-
-TODO
-
-.. SOME FRASE ABOUT THE MOBILE APP
-
-* 'Offline first'
-* Pluggable widgets and forms
+After click on **Submit** you will be taken to the `Landing Page <http://www.google.com>`_. In case you lost your password, check `Forgot Password <http://www.google.com>`_ page.
 
 
-.. _potential_truffala:
+.. warning:: 
+	**TODO:** 
+	
+	* Insert link on the Landing Page 
 
-Potential of Truffala
-====================
 
-TODO 
+.. |bullet| image:: /_pictures/bullet.png
 
-.. [BUILD A DIAGRAM SHOWING THE THINKING PROCESS TO SOLVE PROBLEMS AND HOW TRUFFALA FITS ON IT]
