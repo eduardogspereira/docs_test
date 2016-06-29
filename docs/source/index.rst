@@ -1,12 +1,7 @@
 
 
 Welcome to Truffala User's Guide! 
-====================================
-
-abcd
-
-.. note:
-	Checking if GitHub will work
+=================================
 
 This guide was built to help you with the first steps on Truffala Plataform. 
 
