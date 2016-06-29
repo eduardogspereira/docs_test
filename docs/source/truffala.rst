@@ -4,7 +4,7 @@
    :target: http://www.geosynergy.com.au
 
 ==================
-Truffala Plataform 
+Truffala Platform 
 ==================
 
 Truffala is a spatial enabled project management system, used for:
@@ -13,9 +13,9 @@ Truffala is a spatial enabled project management system, used for:
 * Visualising, analysing and sharing big location data
 
 .. important::
-	Truffala is more a **geospatial intelligence**, rather than mapping, platorm. It integrates geospatial and work management together.
+	Truffala isn't just a web GIS platform  -  it integrates geospatial and work management together to enable decision making and tracking..
 
-	It allow for rapid further development and several standard industry plugins (which customise it for particular industries).
+	As a platform, it also provides a basis for rapid further development and is the basis for several industry based applications.
 
 Read more about `Truffala Details <truffala_details_>`_ and the `Potential of Truffala <potential_truffala_>`_ to solve your problems.
 
@@ -36,7 +36,7 @@ Truffala is a geospatial intelligence platform, that can be used:
 * Data Manager
 * **As the basis for further specialist product development**
 
-Truffala integrates several differing capabilities into a single 'common operating picture' environment. It provides an authentication wrapper around various system, and focus's on building out its own mapping system.
+Truffala integrates several differing capabilities into a single 'common operating picture' environment. It provides an authentication wrapper around various systems, and focus's on building out its own mapping system.
 
 These capabilities are:
 
