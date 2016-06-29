@@ -39,15 +39,23 @@ Also, if you are currently at Redmine Interface you can Log out by clicking on *
 Change Password
 ^^^^^^^^^^^^^^^
 
-For change the password we need go to the Redmine Interface of Truffala.
+For change the password we need go to the *Redmine Interface* of Truffala.
 
+To achieve it, inside the `Project <http://www.google.com>`_ button on the Landing Page click on a random project. 
 
+.. image:: /_pictures/choose_project.png
+	:align: center
+
+You can check that the Redmine for the project you clicked will be displayed. This screen have all the needs areas for your daily use of Redmine, but on some cases we will need to open the Redmine on a new tab so we be able to change some further configurations. This is the case of **change password**. 
+
+To open the Redmine on a new tab, right click on a random link and choose *Open Link in New Tab*.
 
 .. warning:: 
 	**TODO:** 
 	
 	* Insert link on the Landing Page L22 
-
+	* Insert link on Project L44
+	* The change password will requires a update after #40874
 
 .. |bullet| image:: /_pictures/bullet.png
 
