@@ -3,9 +3,7 @@
 Welcome to the Truffala User's Guide! 
 =================================
 
-This guide was built to help you with the first steps on Truffala Plataform. 
-
-**This guide intended to be a quick but comprehensive guide to the platform** and how it can help your daily tasks.
+**This guide is intended to be a quick but comprehensive guide to the platform** and how it can help your daily work.
 
 .. note::
 	In case you need support, please `contact us <http://geosynergy.com.au/contact-us.html>`_ .
