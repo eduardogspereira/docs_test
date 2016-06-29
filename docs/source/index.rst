@@ -16,9 +16,10 @@ This guide was built to help you with the first steps on Truffala Plataform.
    truffala
 
 .. toctree::
-   :caption: SECURE WEBSITE
+   :caption:  WEBSITE
 
    basicsitenavigation
 
+App
 
 
