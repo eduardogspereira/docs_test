@@ -1,14 +1,9 @@
 
 
 ====================================
-Welcome to Truffala User's Guide! 
+Be Welcome to Truffala User's Guide! 
 ====================================
 
-something
-
-abcd
-
-abcdefghijklmnopqrstuvxz
 
 This guide was built to help you with the first steps on Truffala Plataform. 
 
