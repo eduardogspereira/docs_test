@@ -1,7 +1,6 @@
 
 
-====================================
-Be Welcome to Truffala User's Guide! 
+Welcome to Truffala User's Guide! 
 ====================================
 
 .. note:
