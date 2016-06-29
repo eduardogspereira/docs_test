@@ -57,7 +57,7 @@ A flexible project management web application (`Redmine <http://www.redmine.org>
 Web and Mobile Mapping
 ^^^^^^^^^^^^^^^^^^^^^^
 
-``TODO: Put a frase about the web and mobile mapping``
+``TODO: Put a phrase about the web and mobile mapping``
 
 | |bullet| Online mapping
 | |bullet| Sharing
@@ -70,7 +70,7 @@ Web and Mobile Mapping
 Mobile App
 ^^^^^^^^^^
 
-``TODO: A frase about the Mobbile App``
+``TODO: A phrase about the Mobile App``
 
 | |bullet| 'Offline first'
 | |bullet| Pluggable widgets and forms
