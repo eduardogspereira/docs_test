@@ -4,6 +4,8 @@
 Welcome to Truffala User's Guide! 
 ====================================
 
+something
+
 
 This guide was built to help you with the first steps on Truffala Plataform. 
 
