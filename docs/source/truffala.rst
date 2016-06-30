@@ -13,7 +13,7 @@ Truffala is a spatial enabled project management system, used for:
 * Visualising, analysing and sharing big location data
 
 .. important::
-	Truffala isn't just a web GIS platform  -  it integrates geospatial and work management together to enable decision making and tracking..
+	Truffala isn't just a web GIS platform  -  *it integrates geospatial and work management together to enable decision making and tracking*.
 
 	As a platform, it also provides a basis for rapid further development and is the basis for several industry based applications.
 
