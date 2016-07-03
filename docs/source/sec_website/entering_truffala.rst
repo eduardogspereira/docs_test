@@ -1,0 +1,52 @@
+Entering the Truffala Plataform
+===============================
+
+Check the next sections to see ow easily acess Truffala Plataform.
+
+Log in / Log out
+^^^^^^^^^^^^^^^^
+
+|bullet| **Log in**
+
+Acess the site where Truffala Plataform is located and insert your *Username* and *Password*. As the follow picture:
+
+.. image:: ../static/logintruffala.png
+        :align: center
+
+.. tip::
+        You can check **Remember me** to save you login information, speeding you acess to Truffala.
+
+After click on **Submit** you will be taken to the `Landing Page <http://www.google.com>`_. In case you lost your password, check `Forgot Password <http://www.google.com>`_ page.
+
+|bullet| **Log out**
+
+If you are at the `Landing Page <http://www.google.com>`_, click on the Engine and after on **Log off**, like this:
+
+.. image:: ../static/logoff_landingpage.png
+        :align: center
+
+Also, if you are currently at Redmine Interface you can Log out by clicking on **Sign out**:
+
+.. image:: ../static/logoff_redmine.png
+        :align: center
+
+Change Password
+^^^^^^^^^^^^^^^
+
+For change the password we need go to the *Redmine Interface* of Truffala.
+
+To achieve it, inside the `Project <http://www.google.com>`_ button on the Landing Page click on a random project.
+
+.. image:: ../static/choose_project.png
+        :align: center
+
+You can check that the Redmine for the project you clicked will be displayed. This screen have all the needs areas for your daily use of Redmine, but on some cases we will need to open the Redmine on a new tab so we be able to change some further configurations. This is the case of **change password**.
+
+To open the Redmine on a new tab, right click on a random link and choose *Open Link in New Tab*.
+
+.. warning::
+        **TODO:**
+
+        * Insert link on the Landing Page L22
+        * Insert link on Project L44
+

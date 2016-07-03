@@ -84,4 +84,4 @@ Potential of Truffala
 
 ``TODO: Build a diagram showing the thinking processing to solve problems and how Truffala fits on it``
 
-.. |bullet| image:: /_pictures/bullet.png
+.. |bullet| image:: /static/bullet.png

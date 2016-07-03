@@ -16,7 +16,7 @@ Welcome to the Truffala User's Guide!
 .. toctree::
    :caption:  WEBSITE
 
-   basicsitenavigation
+   sec_website/basicsitenavigation
 
 App
 
