@@ -7,5 +7,5 @@ Follow the next sections to get started with the **Website** of Truffala Platafo
 .. toctree::
 	
    entering_truffala
-
+   landing_page
 
