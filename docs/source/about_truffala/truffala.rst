@@ -1,4 +1,4 @@
-.. image:: /static/geosynergy_rtd.png
+.. image:: ../static/geosynergy_rtd.png
    :align: right
    :alt: GeoSynergy Pty Ltd
    :target: http://www.geosynergy.com.au
@@ -84,4 +84,4 @@ Potential of Truffala
 
 ``TODO: Build a diagram showing the thinking processing to solve problems and how Truffala fits on it``
 
-.. |bullet| image:: /static/bullet.png
+.. |bullet| image:: ../static/bullet.png

@@ -11,12 +11,12 @@ Welcome to the Truffala User's Guide!
 .. toctree::
    :caption: ABOUT TRUFFALA
   
-   truffala
+   about_truffala/truffala
 
 .. toctree::
    :caption:  WEBSITE
 
-   sec_website/basicsitenavigation
+   website_truffala/basicsitenavigation
 
 App
 

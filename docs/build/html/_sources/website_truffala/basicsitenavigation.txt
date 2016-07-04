@@ -2,7 +2,7 @@
 Basic Site Navigation 
 =====================
 
-To get started with **Website** of the Truffala Plataform follow the next sections:
+Follow the next sections to get started with the **Website** of Truffala Plataform:
 
 .. toctree::
 	
