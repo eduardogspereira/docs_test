@@ -16,7 +16,7 @@ Acess the site where Truffala Plataform is located and insert your *Username* an
 .. tip::
         You can check **Remember me** to save you login information.
 
-After click on **Submit** you will be taken to the `Landing Page <http://www.google.com>`_. In case you lost your password, see `Forgot Password <forgot_password_>`_ section and learn how to retrieve it.
+After click on **Submit** you will be redirect to the `Landing Page <http://www.google.com>`_. In case you lost your password, see `Forgot Password <forgot_password_>`_ section and learn how to retrieve it.
 
 |bullet| **Log out**
 
@@ -50,7 +50,7 @@ On your mailbox will be delivery an e-mail with instructions for change your pas
 .. image:: ../static/lostpassword.png
 	:align: center
 
-After click on *Save* you'll be able to **login on Truffala** with your new password.
+If it has no errors, after click on *Save* you'll be able to **login on Truffala** with your new password.
 
 
 Change Password
@@ -65,7 +65,7 @@ You can check that the Redmine frame for the project you clicked will be display
 
 .. note::
 
-	This **Redmine frame** have all the needs areas for *your daily use of Redmine*, but for some **administrative settings and tasks** you'll need to open the Redmine on a new tab to achieve it. This is the case of **change password**.
+	This **Redmine frame** have all the needs areas for *your daily use of Redmine*, but for some **administrative settings and tasks** you'll need open the Redmine on a new tab to make them. This is the case of **change password**.
 	
 	See the `Redmine Interface of Truffala <http://www.google.com.br>`_ for more information.
 	
@@ -85,12 +85,12 @@ After, click on **Change password**, as the follow picture:
 .. image:: ../static/changepass.png
 	:align: center
 
-On this screen, you'll need to insert your **currently password**, you **new password** and the **confirmation**.
+On this screen, you'll need to insert your **currently password**, your **new password** and the **confirmation**.
 
 .. image:: ../static/changepass_screen.png
 	:align: center
 
-If it has no error, after you click apply you receive a message that the **Password was successfully update** and it's your new password for use in Truffala.
+If it has no error, after you click apply you receive a message that the **Password was successfully update** and it will be your new password for use in Truffala.
 
 
 
