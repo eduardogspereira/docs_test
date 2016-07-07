@@ -38,10 +38,37 @@ As you'll creating *subprojects*, they are going to be showing as folders here. 
 	
 	After create a *subproject*, you'll need to **reload the page** for the new subprojects appears on the *Projects Tree*.
 
-- - - - - 
+Maps
+****
 
+Dashboard
+*********
+
+The *Dashboard* will help you by summarise all the relevant information contained within the Redmine. **It provide management summaries**, like: activity, amounts of things, charts, stuff, reports.
+
+``Waiting #40883 <https://synmine.kegsys.com/issues/40883> .``
+
+
+User Guide
+********** 
+
+The *User Guide* button will redirect you for this material that you'are currently reading. 
+This guide **is intended to be a quick but comprehensive guide to the plataform** and show how it can help your daily work.
+
+If you want to, you are able to download this guide in **PDF** with the *lastest* version of Truffala. Do as the follow picture:
+
+.. image:: ../static/pdf_readthedocs.png
+	:align: center
+
+.. hint:: 
+
+	You can use the *search box* to **find what you are looking for faster**. For example: 
+
+	.. image:: ../static/searchbox.png
+		:align: center
 .. warning::
 	TODO
 
 	* Create a **How to create your first project**
 	* Link the Redmine Interface of Truffala
+	* Complete **Dashboard**
