@@ -41,6 +41,46 @@ As you'll creating *subprojects*, they are going to be showing as folders here. 
 Maps
 ****
 
+Inside *Maps* you can list and view all the **Available Workpacks** for all your projects.
+
+.. note::
+	
+	**Workpack** is ... TODO
+
+They will be organized by two columns (**ID** and **Name**), as the follow picture:
+
+.. image:: ../static/available_workpacks.png
+	:align: center
+
+.. important::
+
+        Every *workpack* you'll create must be referenced by a **Redmine Project**.
+
+        If you don't have a project created, check `How create your first workpack <www.google.com.br>`_ on Truffala.
+
+``START HERE``
+You can click on the workpack you want to acess and it will load on your screen.As the follow picture:
+
+
+
+
+You'll use this screen to create new *workpack*, to do so you need to click on **Create Map...** button on the left down.
+
+.. image:: ../static/createmap.png
+	:align: center
+
+
+After *click* a window called **New map** will open. You will need fill some information, as the follow example: 
+
+.. image:: ../static/newmap.png
+	:align: center
+
+
+
+Check the maps for see how to upload the geospatial data, configure the map viewer, how integrate the geospatial information with the project management and more capacibilities.
+
+
+
 Dashboard
 *********
 
@@ -72,3 +112,7 @@ If you want to, you are able to download this guide in **PDF** with the *lastest
 	* Create a **How to create your first project**
 	* Link the Redmine Interface of Truffala
 	* Complete **Dashboard**
+	* Do the workpack definition
+	* Make a list for the SRID
+	* Check how the **workspace** will be handle.
+	* Create a **How to create a workpack**
