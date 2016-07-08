@@ -56,7 +56,15 @@ They will be organized by two columns (**ID** and **Name**), as the follow pictu
 
         Every *workpack* you'll create must be referenced by a **Redmine Project**.
 
-        If you don't have a project created, check `How create your first workpack <www.google.com.br>`_ on Truffala.
+This is the place **where you are going to create workpacks**. If you don't have a workpack created, check `How create your first workpack <www.google.com.br>`_ on Truffala for more details.
+
+
+You can click on the *workpack* you want to acess and it will load on your screen with all tools entered by the **project administrator**. Check the next image:
+
+.. image:: ../static/workpack_example.png
+	:align: center   
+
+
 
 ``START HERE``
 You can click on the workpack you want to acess and it will load on your screen.As the follow picture:

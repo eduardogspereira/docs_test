@@ -56,9 +56,17 @@ They will be organized by two columns (**ID** and **Name**), as the follow pictu
 
         Every *workpack* you'll create must be referenced by a **Redmine Project**.
 
-        If you don't have a project created, check `How create your first project <www.google.com.br>`_ on Truffala.
+This is the place **where you are going to create workpacks**. If you don't have a workpack created, check `How create your first workpack <www.google.com.br>`_ on Truffala for more details.
 
 
+You can click on the *workpack* you want to acess and it will load on your screen with all tools entered by the **project administrator**. Check the next image:
+
+.. image:: ../static/workpack_example.png
+	:align: center   
+
+
+
+``START HERE``
 You can click on the workpack you want to acess and it will load on your screen.As the follow picture:
 
 
@@ -69,11 +77,6 @@ You'll use this screen to create new *workpack*, to do so you need to click on *
 .. image:: ../static/createmap.png
 	:align: center
 
-.. important::
-	
-	Every *workpack* you'll create must be referenced by a **Redmine Project**.
-
-	If you don't have a project created, check `How create your first project <www.google.com.br>`_ on Truffala.
 
 After *click* a window called **New map** will open. You will need fill some information, as the follow example: 
 
