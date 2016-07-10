@@ -56,37 +56,21 @@ They will be organized by two columns (**ID** and **Name**), as the follow pictu
 
         Every *workpack* you'll create must be referenced by a **Redmine Project**.
 
-This is the place **where you are going to create workpacks**. If you don't have a workpack created, check `How create your first workpack <www.google.com.br>`_ on Truffala for more details.
-
-
-You can click on the *workpack* you want to acess and it will load on your screen with all tools entered by the **project administrator**. Check the next image:
+You can click on the *workpack* you want to acess and it will load on your screen with all tools enabled by the **project administrator**. Check the next example showing a workpack:
 
 .. image:: ../static/workpack_example.png
 	:align: center   
 
+The **Maps** button on *Landing Page* is **where you'll going to create workpacks**. If you don't have a workpack created, check `How create your first workpack <www.google.com.br>`_ for more details.
 
+.. important::
+	Check the `Mapping section <www.google.com.br>`_ to see and understand **what you can do with your workpack** and how to configure it for your project.
 
-``START HERE``
-You can click on the workpack you want to acess and it will load on your screen.As the follow picture:
+With the **workpacks** you'll be able to upload geospatial data, automate process and alerts and integrate the geospatial information with the project management. 
 
+.. note::
 
-
-
-You'll use this screen to create new *workpack*, to do so you need to click on **Create Map...** button on the left down.
-
-.. image:: ../static/createmap.png
-	:align: center
-
-
-After *click* a window called **New map** will open. You will need fill some information, as the follow example: 
-
-.. image:: ../static/newmap.png
-	:align: center
-
-
-
-Check the maps for see how to upload the geospatial data, configure the map viewer, how integrate the geospatial information with the project management and more capacibilities.
-
+	You'll be able to use a `geospatial intelligence <www.google.com.br>`_ plataform (*Truffala*) **in favor of your project**. 
 
 
 Dashboard
@@ -124,3 +108,5 @@ If you want to, you are able to download this guide in **PDF** with the *lastest
 	* Make a list for the SRID
 	* Check how the **workspace** will be handle.
 	* Create a **How to create a workpack**
+	* Create the **Mapping section**
+	* Geospatial intelligence link 62
