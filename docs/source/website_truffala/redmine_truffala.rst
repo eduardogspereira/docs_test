@@ -1,6 +1,5 @@
 Acessing Redmine on Truffala
 ============================
 
-asdfadfsa
-
+For acess
 
